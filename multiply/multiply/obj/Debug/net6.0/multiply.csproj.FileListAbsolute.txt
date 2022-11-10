@@ -1,0 +1,15 @@
+C:\Users\אורט\Desktop\multiply\multiply\bin\Debug\net6.0\multiply.exe
+C:\Users\אורט\Desktop\multiply\multiply\bin\Debug\net6.0\multiply.deps.json
+C:\Users\אורט\Desktop\multiply\multiply\bin\Debug\net6.0\multiply.runtimeconfig.json
+C:\Users\אורט\Desktop\multiply\multiply\bin\Debug\net6.0\multiply.dll
+C:\Users\אורט\Desktop\multiply\multiply\bin\Debug\net6.0\ref\multiply.dll
+C:\Users\אורט\Desktop\multiply\multiply\bin\Debug\net6.0\multiply.pdb
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.csproj.AssemblyReference.cache
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.AssemblyInfoInputs.cache
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.AssemblyInfo.cs
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.csproj.CoreCompileInputs.cache
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.dll
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\ref\multiply.dll
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.pdb
+C:\Users\אורט\Desktop\multiply\multiply\obj\Debug\net6.0\multiply.genruntimeconfig.cache
